@@ -158,3 +158,11 @@ main {
 @media (prefers-reduced-motion: reduce) {
   .bg-video { display: none; }
 }
+body {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Bebas Neue', 'Inter', sans-serif;
+  letter-spacing: 0.04em;
+}
